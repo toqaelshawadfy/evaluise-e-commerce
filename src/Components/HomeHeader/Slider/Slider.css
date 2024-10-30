@@ -1,0 +1,24 @@
+.slider-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .slider-wrapper .slick-dots {
+    position: absolute !important;
+    top: 10px !important;
+    left: 50% !important;
+    transform: translateX(-50%);
+    z-index: 10;
+  }
+  
+  .slick-dots li button:before {
+    color: #fff;
+    opacity: 0.8;
+  }
+
+  .slider-wrapper .slick-dots li.slick-active button {
+    background-color: #ff0000 !important;
+    opacity: 1 !important;
+  }  

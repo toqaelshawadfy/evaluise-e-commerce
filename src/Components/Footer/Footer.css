@@ -1,0 +1,49 @@
+.footer{
+    background-color: #000000;
+}
+.footer p,.footer h3{
+    color: white;
+}
+.social-list ul{
+ display: flex;
+}
+.social-list ul li{
+    list-style: none;
+    margin: 0px 11px;
+    color: white;
+    font-size: 17.5px;
+}
+.footer span{
+    color: rgb(79, 78, 78);
+}
+.box{
+    border:2px solid white;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    padding: 5px 10px;
+    width: 74%;
+}
+.end-footer{
+    border-top: 1px solid rgb(72, 72, 72);
+}
+.top-footer h3{
+ font-family: 'Roboto', sans-serif;
+ font-size: 22px;
+}
+.top-footer p{
+    color: rgb(211, 209, 209);
+    font-size: 15px;
+    white-space: pre-line;
+}
+.googleplay{
+    width: 25%;
+}
+.playpra span{
+ font-size: 10px;
+}
+.playpra h6{
+    font-size: 10px;
+}

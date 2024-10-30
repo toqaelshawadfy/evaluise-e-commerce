@@ -1,0 +1,92 @@
+.home{
+    font-family: 'Roboto', sans-serif;
+}
+.homesec3title h6{
+    color: #db4444;
+    position: relative;
+    margin-left: 1.8rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+.homesec3title h6::before{
+  content: "";
+  position: absolute;
+  width: 16.7px;
+  height: 34px;
+  background-color: #db4444;
+  left: -1.8rem;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  top: -7.3px;
+}
+.homesec3sectit h3{
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: 2.2rem;
+}
+.sec3viebtn{
+    background-color: #db4444;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding: 15px 47px;
+    font-size: 14px;
+    cursor: pointer;
+}
+.card{
+    border: none !important;
+}
+.productprice{
+    color: #db4444;
+    font-size: 18px;
+    font-weight: 500;
+}
+.producticon{
+    top: 0px;
+    right: 7px;
+
+}
+
+.loveicon,.eyeicon{
+    background-color: #f5f5f5;
+    border-radius: 55%;
+    -webkit-border-radius: 55%;
+    -moz-border-radius: 55%;
+    -ms-border-radius: 55%;
+    -o-border-radius: 55%;
+    padding: 4px 7px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.loveicon:hover,.eyeicon:hover{
+    background-color: #db4444;
+}
+.priceoffer{
+    color: #949494;
+    font-size: 17px;
+    margin-left: 8px;
+    font-weight: 500;
+}
+.addbtn{
+    background-color: black;
+    color: white;
+    border: none;
+}
+.frame{
+    margin-top: 8rem;
+}
+.card:hover .addbtnhome{
+    opacity: 1;
+}

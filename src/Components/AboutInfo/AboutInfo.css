@@ -1,0 +1,27 @@
+.sec4{
+    margin-top: 11.3rem;
+    margin-bottom: 8.3rem;
+}
+.infoiconi{
+    background-color: black;
+    padding: 13px;
+    border:  10px solid #c1c0c1;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    font-size: 26px;
+}
+.aboutinfo{
+    font-family: 'Roboto', sans-serif;
+}
+.aboutinfo h4{
+    font-size: 21px;
+    font-weight: 600;
+}
+.aboutinfo h5{
+    font-size: 15px;
+    margin-top: 5px;
+
+}

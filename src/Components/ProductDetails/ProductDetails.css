@@ -1,0 +1,93 @@
+.url p{
+ font-family:  'Roboto', sans-serif;
+ font-size: 14px;
+ color: #979797;
+}
+.proproce h5{
+    font-size: 30px;
+}
+.despro{
+    font-family:  'Roboto', sans-serif;
+    font-size: 15px;
+}
+.homesec3title h6{
+    color: #db4444;
+    position: relative;
+    margin-left: 1.8rem;
+    font-size: 15px;
+    font-weight: 600;
+}
+.homesec3title h6::before{
+  content: "";
+  position: absolute;
+  width: 16.7px;
+  height: 34px;
+  background-color: #db4444;
+  left: -1.8rem;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  top: -7.3px;
+}
+.relateditem{
+    margin-top: 5.3rem;
+}
+.wishlisticon{
+    border: 1px solid rgb(193, 193, 193);
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    padding:  6px 8px;
+    cursor: pointer;
+}
+.buybtn button{
+    background-color: #db4444;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding: 6px 40px;
+    cursor: pointer;
+    transition: 0.5s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+.buybtn button:hover{
+    background-color: #cc2424;
+}
+.delivrybox{
+    border: 1px solid rgb(193, 193, 193);
+    margin-top: 2rem;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding: 10px;
+}
+.delpra{
+    margin-left: 15px;
+}
+.delpra span{
+    font-family:  'Roboto', sans-serif;
+   font-size: 14px;
+}
+td button{
+    border: none;
+}
+table{
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}

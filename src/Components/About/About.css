@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.pageabout{
+    margin-top: 45px;
+}
+.Home{
+    color: gray;
+}
+.pageabout p{
+    font-size: 13px;
+    word-spacing: 2px;
+}
+.sec1-tit h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: black;
+    letter-spacing: 6px;
+}
+.sec1-tit p{
+    font-family: 'Roboto', sans-serif;
+    line-height: 27px;
+    margin-top: 4%;
+}
+ .sec2{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 8rem;
+    margin-bottom: 2rem;
+ }
+.sec2box{
+    border: 1px solid rgb(175, 175, 175);
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+.sec2icon{
+    background-color: black;
+    padding: 12px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border:10px solid #c1c0c1;
+}
+.sec2icondiff{
+    background-color: white;
+    padding: 12px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border:10px solid #e67c7c;
+}
+.numbox h3 ,.numboxdiff h3{
+ font-size: 30px;
+ font-weight: 600;
+}
+.boxspan{
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+/* .boxspandiff span{
+    font-size: 16px !important;
+    margin-bottom: 15px !important;
+} */
+.slider-container img{
+    width: 78%;
+    height:22rem;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+.sliderpra ul {
+ display: flex;
+}
+.sliderpra ul li{
+    list-style: none;
+}
+.slider-container{
+    margin-top: 8rem;
+    font-family: 'Roboto', sans-serif;
+}
+.sliderpraicon{
+    font-size: 21px;
+}
+.sliderpra h5{
+    font-size: 28px;
+    margin-top: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+.slider-container .slick-dots {
+    bottom: -48px; 
+}
+.slick-dots li {
+    margin: 0 0px; 
+    width: 25px;
+    height: 25px;
+}
+.slick-dots li.slick-active button:before {
+    color: #db2e2e;
+}
+

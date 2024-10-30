@@ -1,0 +1,70 @@
+.wishlist{
+    font-family: 'Roboto', sans-serif;
+}
+.wishcounter h6{
+ font-size: 20px;
+ font-weight: 500;
+}
+.moovetobag{
+  border: 2px solid  #848484;
+  color: black;
+  background-color: transparent;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  padding: 11px 39px;
+  font-weight: 500
+}
+.seeall{
+    border: 2px solid  #848484;
+    color: black;
+    background-color: transparent;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    font-weight: 500;
+    padding:9px 35px;
+}
+.card .addbtnhome{
+    bottom: 35%;
+}
+.card:hover .addbtnhome{
+    opacity: 1;
+}
+.deletbtn{
+    top: 3px;
+    right: 6px;
+    color: black;
+    background-color:#f5f5f5;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    padding: 8px;
+}
+.deletbtn:hover{
+    color: white;
+    background-color: #db4444;
+}
+.wishlist .card-body .card-text{
+    color: #db4444;
+    font-size: 21px;
+    font-weight: 400;
+}
+.card-img-top {
+ position: relative !important;
+}
+.wishlist .row{
+    margin-top: 5%;
+}
+.addbtn{
+    bottom: 30%;
+    right: 12px;
+    left: 12px;
+    padding: 7px 0px;
+}

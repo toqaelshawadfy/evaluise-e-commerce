@@ -1,0 +1,11 @@
+*{
+ --main-color:black;
+}
+.tape{
+    background-color: var(--main-color);
+    display: flex;
+    justify-content: center;
+}
+.tape p{
+    color: white;
+}

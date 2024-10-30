@@ -1,0 +1,55 @@
+.account{
+    margin-bottom: 20%;
+    font-family: 'Roboto', sans-serif;
+}
+.accounturl .proname{
+  color: #db4444;
+}
+.savebtn{
+    background-color: #db4444;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    padding: 12px 45px;
+}
+
+.accountContainer ul li{
+  list-style: none;
+  color: gray;
+  margin-top: 6px;
+  cursor: pointer;
+}
+.accountContainer ul li span,.acctitle h3{
+    color: #db4444 !important;
+}
+.accountContainer ul li:hover{
+    color: #db4444;
+}
+.account .form-control{
+    border: none ;
+    background-color: #f5f5f5;
+    padding: 11px ;
+    margin-top: 10px;
+}
+.accountbox {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.06);
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    padding: 50px 75px !important;
+    border:1px solid transparent ;
+}
+.passrow{
+    padding: 12px;
+}
+.acctitle h3{
+ font-size: 19px;
+ font-weight: 700;
+ letter-spacing: 1px;
+}

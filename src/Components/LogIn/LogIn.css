@@ -1,0 +1,33 @@
+.logbtn{
+    background-color: #db4444;
+    color: white;
+    border: none;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    padding:  12px 28px;
+}
+.login span{
+    color: #db4444;
+}
+.logininput{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid gray;
+    border-left: none;
+}
+.logininput:focus{
+    border: none;
+    background-color: none;
+}
+.logtitle h3{
+font-size: 30px;
+letter-spacing: 2px;
+font-weight: 500;
+}
+.logform{
+ margin-top: 13%;
+}

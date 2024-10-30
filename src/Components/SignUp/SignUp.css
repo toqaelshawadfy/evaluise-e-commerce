@@ -1,0 +1,36 @@
+.submitbtn{
+ background-color: #db4444;
+ color: white;
+ border: none;
+ border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ -ms-border-radius: 5px;
+ -o-border-radius: 5px;
+ padding: 13px 0px;
+}
+.signinp input{
+    width: 100%;
+    border-top: none;
+    border-right: none;
+    border-bottom: 2px solid gray;
+    border-left: none;
+    background-color: transparent;
+}
+.signuppra{
+    width: 60%;
+}
+.googleimg{
+    width: 6%;
+}
+.submitgooglebtn{
+    border: 1px solid gray;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 13px 0px;
+    background-color: transparent;
+    color: gray;
+}
